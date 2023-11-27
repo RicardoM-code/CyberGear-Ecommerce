@@ -1,3 +1,3 @@
 # CyberGear-Ecommerce
 
-Página de Ecommerce desenvolvido utilizando Bootstrap 5
+Página de Ecommerce desenvolvida utilizando Bootstrap 5
