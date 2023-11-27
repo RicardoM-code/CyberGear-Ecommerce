@@ -1,0 +1,61 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.logo h1{
+    color: #2d88ff;
+}
+
+.logo span{
+    color: #fff;
+}
+
+
+.nav-custom a{
+    color: #fff;
+    
+}
+
+.img-custom{
+    width: 40px;
+    margin: auto;
+}
+
+.img-custom:hover{
+    cursor: pointer;
+
+}
+
+.carousel .carousel-indicators button{
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+}
+
+/* Main */
+
+.col-custom{
+    border:1px solid black;
+
+}
+
+.bg-custom{
+    background-color: #ffffff;
+}
+
+/* Main */
+
+/*Footer*/
+
+.font-custom{
+    color: #fff;
+}
+
+.img-custom-footer{
+    width: 180px;
+}
+
+.img-custom-footer:hover{
+    cursor: pointer;
+}
